@@ -5,34 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73387ff-28f8-4be7-9f3c-ea707807fce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Image filter app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image_filter_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reading_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rescale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Image filter app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Image filter app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/download.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_filter_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_filter_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Mharvee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mharvee&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Mharvee/computer-vision-projects.git",
-    "accountId": "200ec5ba-3f5b-4ad4-b252-b1820901e1e3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mharvee/computer-vision-projects.git&quot;,
+    &quot;accountId&quot;: &quot;200ec5ba-3f5b-4ad4-b252-b1820901e1e3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -42,16 +56,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.image_filter_app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/computer-vision-projects"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.blur.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drawing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_filter_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rescale.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spaces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transformation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/computer-vision-projects&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\computer-vision-projects\images" />
       <recent name="C:\Users\HP\PycharmProjects\Image filter app" />
     </key>
   </component>

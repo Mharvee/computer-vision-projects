@@ -1,7 +1,7 @@
 import cv2
 
 def apply_filters():
-    image = cv2.imread("download.jpeg")
+    image = cv2.imread('images/download.jpeg')
 
     if image is None:
         print("Error: Could not load image.")
@@ -17,7 +17,7 @@ def apply_filters():
     cv2.imshow('Grayscale', gray)
 
     # Apply blur filter
-    blur = cv2.GaussianBlur(image, (15, 15), 0)
+    blur = cv2.GaussianBlur(image, (25, 15), 0)
     cv2.imshow('Blurred', blur)
 
     # Wait until you press a key, then close all windows
